@@ -15,6 +15,11 @@
 
 ## Introduction ##
 
+The current waste management systems are unable to efficiently deal with the tons of garbage that’s generated every day. Automating the processes of garbage sorting and disposal, by switching to AI for smart recycling and waste management, is expected to bring in better disposal methods to recycle sustainably.
+
+The current waste segregation methods include manual segregation of waste. We present an effective system
+which segregates waste based on supervised machine learning algorithms and classify the the waste into
+cardboard, glass, metal, trash, paper and plastic.
 
 - - - -
 
@@ -47,6 +52,7 @@ Edge AI is a system that uses Deep Learning algorithms to process data generated
 
 ## Conclusion ##
 
+This project is purely done for Demonstration purposes.The proposed Edge AI based system presents a simple and an effective method to classify the waste using Deep Learning, thus completely removing human intervention in the segregation stage. 
 
 - - - -
 
