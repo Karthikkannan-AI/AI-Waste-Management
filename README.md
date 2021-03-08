@@ -20,7 +20,11 @@
 
 ## The Problem ##
 
+<img src="https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/resources/Problem.JPG">
+
 ### Analysis of the Problem
+
+<img src="https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/resources/Analysis.JPG">
 
 - - - -
 
