@@ -1,15 +1,15 @@
 # AI Waste Management
 
-* [Introduction]()
-* [The Problem]()
-  * [Analysis of the Problem]()
-* [Proposed Solution]()
-  * [AI on the edge]()  
-  * [Solution Workflow]()
-  * [Evaluation of the Proposed Solution]()
-* [Conclusion]()
-* [Contact Us]()
-* [Rebounding from COVID-19]()
+* [Introduction](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#introduction)
+* [The Problem](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#the-problem)
+  * [Analysis of the Problem](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#analysis-of-the-problem)
+* [Proposed Solution](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#proposed-solution)
+  * [AI on the edge](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#ai-on-the-edge)  
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/README.md#rebounding-from-covid-19)
 
 - - - -
 
