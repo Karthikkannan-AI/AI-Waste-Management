@@ -40,6 +40,9 @@ Edge AI is a system that uses Deep Learning algorithms to process data generated
 
 ### Evaluation of the Proposed Solution
 
+<a href="https://youtu.be/pDy2qvbtJOY" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/resources/AI%20Waste%20Management.png"/></a> 
+
+
 - - - -
 
 ## Conclusion ##
