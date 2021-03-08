@@ -57,7 +57,7 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
           
 __Phone : 9944865029__
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/resources/About%20ETOP%20Technologies_Github.png">
 
 - - - -
 
@@ -74,4 +74,4 @@ This work is part of our journey towards Recovery and Reinvention.
 #EtopTechnologies #Artificialintelligence #DeepLearning #MachineLearning
 
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/AI-Waste-Management/blob/main/resources/CoronaPandemic.jpeg">
