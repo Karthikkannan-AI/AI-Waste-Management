@@ -19,7 +19,7 @@ The current waste management systems are unable to efficiently deal with the ton
 
 The current waste segregation methods include manual segregation of waste. We present an effective system
 which segregates waste based on supervised machine learning algorithms and classify the the waste into
-cardboard, glass, metal, trash, paper and plastic.
+shredded paper waste, crushed paper waste, news paper waste,food waste, packaged foods waste, PET bottle waste, plastic cover waste, e-waste, plastic material waste.
 
 - - - -
 
